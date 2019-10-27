@@ -1,7 +1,7 @@
 # Учебный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Андрей Митрофанов](https://up.htmlacademy.ru/react/2/user/429567).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Стариков](https://htmlacademy.ru/profile/id1152617).
 
 ---
 
