@@ -1,4 +1,7 @@
-const WelcomeScreen = () => {
+import React from 'react';
+
+const WelcomeScreen = (props) => {
+  const {time, errorCount} = props;
   return <section className="welcome">
     <div className="welcome__logo">
       <img src="img/melody-logo.png" alt="Угадай мелодию" width="186" height="83"/>
@@ -13,3 +16,4 @@ const WelcomeScreen = () => {
     <p className="welcome__text">Удачи!</p>
   </section>;
 };
+export default WelcomeScreen
